@@ -12,3 +12,8 @@ When enabled, time-notes replaces the functionality of the `enter` key, adding a
 
 
 ![time-notes in action](http://svencharleer.com/blog/wp-content/uploads/2016/09/time-notes.png)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fmagikmw%2Ftime-notes.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fmagikmw%2Ftime-notes?ref=badge_shield)
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fmagikmw%2Ftime-notes.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fmagikmw%2Ftime-notes?ref=badge_large)
